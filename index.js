@@ -1,2 +1,3 @@
-import main from '/bin/main.js';
+import helloTeam from "./bin/main.js";
 
+helloTeam();
