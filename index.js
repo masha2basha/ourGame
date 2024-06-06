@@ -1,2 +1,2 @@
-import main from 'src';
+import main from '/bin/main.js';
 
