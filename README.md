@@ -4,4 +4,5 @@
 ---
 # Install Project
 
-> npm install
+```npm install
+```
