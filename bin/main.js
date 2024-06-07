@@ -1,3 +1,3 @@
-const helloTeam = () => console.log("Hello, Misha!");
+const helloTeam = () => console.log("Hello, Team!");
 
 export default helloTeam;
