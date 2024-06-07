@@ -3,3 +3,6 @@ make:
 
 eslint:
 				npx eslint .
+
+editor:
+				npx phasereditor2d-launcher -project .
