@@ -4,5 +4,5 @@ make:
 eslint:
 				npx eslint .
 
-editor:
+developer:
 				npx phasereditor2d-launcher -project .
