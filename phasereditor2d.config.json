@@ -1,0 +1,5 @@
+{
+    "plugins": [],
+    "skip": [],
+    "scripts": ["@phaserjs/editor-scripts-core"]
+}
