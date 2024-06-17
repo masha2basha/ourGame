@@ -6,3 +6,4 @@ eslint:
 
 developer:
 				cd ~/PhaserEditor-desktop; ./PhaserEditor-desktop
+
