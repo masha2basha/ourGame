@@ -5,4 +5,5 @@ eslint:
 				npx eslint .
 
 developer:
-				npx phasereditor2d-launcher -project .
+				cd ~/PhaserEditor-desktop; ./PhaserEditor-desktop
+
