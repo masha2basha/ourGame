@@ -16,8 +16,7 @@
     "@eslint/create-config": "^1.0.0",
     "eslint": "^8.57.0",
     "jest": "^29.7.0",
-    "phasereditor2d-launcher": "^3.67.0",
-    "prettier": "^3.3.1"
+    "phasereditor2d-launcher": "^3.67.0"
   },
   "dependencies": {
     "http-server": "^14.1.1",
