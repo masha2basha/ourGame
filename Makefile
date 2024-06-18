@@ -4,3 +4,5 @@ developer:
 webpack:
 				npm run build:prod
 
+server:
+				npx http-server ~/public/index.html
