@@ -1,5 +1,5 @@
 import Phaser from "phaser";
-import Map from '../classes/Map'
+import Map from '../classes/Map.js'
 
 export default class GameScene extends Phaser.Scene {
     constructor() {
